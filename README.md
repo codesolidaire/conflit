@@ -1,2 +1,1 @@
-# conflit
-text
+REMOTE
